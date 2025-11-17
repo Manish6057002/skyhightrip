@@ -1,0 +1,115 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  password      String
+  name          String?
+  isAdmin       Boolean   @default(false)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  resetToken    String?
+  resetTokenExp DateTime?
+  sessions      Session[]
+  flightBookings    FlightBooking[]
+  hotelBookings     HotelBooking[]
+  activityBookings  ActivityBooking[]
+
+  @@map("users")
+  @@index([isAdmin])
+}
+
+model Session {
+  id        String   @id @default(cuid())
+  userId    String
+  token     String   @unique
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("sessions")
+}
+
+model FlightBooking {
+  id            String   @id @default(cuid())
+  userId        String
+  bookingRef    String   // External booking reference (e.g., Amadeus/Duffel reference)
+  status        String   // 'confirmed', 'pending', 'cancelled'
+  departure     String   // Departure airport code
+  arrival       String   // Arrival airport code
+  departureDate String   // Departure date/time
+  arrivalDate   String?  // Arrival date/time
+  airline       String?  // Airline name/code
+  price         String   // Price as string
+  currency      String?  // Currency code
+  passenger     Json     // Passenger information
+  contact       Json     // Contact information
+  bookingData   Json     // Full booking data from API response
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("flight_bookings")
+  @@index([userId])
+  @@index([status])
+}
+
+model HotelBooking {
+  id            String   @id @default(cuid())
+  userId        String
+  bookingRef    String   // External booking reference (e.g., Hotelbeds reference)
+  status        String   // 'confirmed', 'pending', 'cancelled'
+  hotelName     String   // Hotel name
+  hotelCode     String?  // Hotel code
+  location      String?  // Location/destination
+  checkIn       String   // Check-in date
+  checkOut      String   // Check-out date
+  roomType      String?  // Room type/name
+  roomCode      String?  // Room code
+  price         String   // Price as string
+  currency      String?  // Currency code
+  guests        Json?    // Guest information
+  contact       Json     // Contact information
+  bookingData   Json     // Full booking data from API response
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("hotel_bookings")
+  @@index([userId])
+  @@index([status])
+}
+
+model ActivityBooking {
+  id            String   @id @default(cuid())
+  userId        String
+  bookingRef    String   // External booking reference (e.g., Hotelbeds reference)
+  status        String   // 'confirmed', 'pending', 'cancelled'
+  activityName  String   // Activity name
+  activityCode  String?  // Activity code
+  location      String?  // Location/destination
+  dateFrom      String   // Activity start date
+  dateTo        String?  // Activity end date
+  price         String   // Price as string
+  currency      String?  // Currency code
+  passengers    Json?    // Passenger information
+  contact       Json     // Contact information
+  bookingData   Json     // Full booking data from API response
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("activity_bookings")
+  @@index([userId])
+  @@index([status])
+}

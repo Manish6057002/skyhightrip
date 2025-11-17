@@ -1,0 +1,916 @@
+{
+  "operationId": "5ed7e6b44fc0cd5a",
+  "auditData": {
+    "processTime": 1.526,
+    "time": "2025-11-13T19:05:47.764Z",
+    "serverId": "blank",
+    "environment": "blank"
+  },
+  "booking": {
+    "reference": "102-19696436",
+    "status": "CONFIRMED",
+    "currency": "EUR",
+    "pendingAmount": 78.65,
+    "agency": {
+      "code": 99994,
+      "branch": 1,
+      "comments": "",
+      "sucursal": {
+        "name": "HOTELBEDS SPAIN - PRUEBAS",
+        "street": "PEREZ GALDOS 32",
+        "zip": "07006",
+        "city": "PALMA DE MALLORCA",
+        "phone": "971771700",
+        "region": "BALEARES"
+      }
+    },
+    "creationDate": "2025-11-13T20:05:47.000Z",
+    "paymentData": {
+      "paymentType": {
+        "code": "C"
+      },
+      "invoicingCompany": {
+        "code": "E14",
+        "name": "HOTELBEDS S.L.U.",
+        "registrationNumber": "ESB57218372"
+      }
+    },
+    "extraData": [
+      {
+        "id": "WEBIP",
+        "value": "27.7.225.54, 18.68.17.51, 10.214.142.123, 10.214.129.219"
+      }
+    ],
+    "clientReference": "TEST-1763057145533",
+    "holder": {
+      "name": "JOHN",
+      "title": "",
+      "mailing": false,
+      "surname": "DOE"
+    },
+    "total": 78.65,
+    "totalNet": 78.65,
+    "activities": [
+      {
+        "status": "CONFIRMED",
+        "supplier": {
+          "name": "HOTELBEDS SPAIN, S.L.U",
+          "vatNumber": "ESB28916765"
+        },
+        "comments": [
+          {
+            "type": "CONTRACT_REMARKS",
+            "text": "Meeting point: Liceu Metro Station // Meeting point instructions: Outside the station, near the elevators). Your guide will be wearing Intrepid Urban Adventures red sign. If you come by Metro, please take the exit Teatre Liceu. Please ensure you arrive at the meeting point at least 15 minutes in advance // End point: Plaça Catalunya //Duration: 3 hours // Inclusions: Guide. 4 drinks (wine, beer, vermouth, or soft drink for those under the age of 18). 8 local tapas // Exclusions: Hotel pick-up/drop-off. Any additional expenses which are not included or detailed in the programme // Mandatory instructions: Remember to bring a valid photo ID with you // Supplier name: Urban Adventures // Supplier emergency phone: +49 802 446 79 545. Email: barcelona@urbanadventures.com // Voucher type: Voucherless. You don’t need to bring any voucher (digital or printed)!"
+          }
+        ],
+        "type": "TICKET",
+        "vouchers": [],
+        "activityReference": "102-19696436",
+        "code": "E-E10-TAPASBARRI",
+        "name": "Barcelona Tapas Tour “en el barrio”",
+        "modality": {
+          "code": "TOUR@STANDARD|ENG|17:30",
+          "name": "Tour english 17:30",
+          "rates": [
+            {
+              "freeCancellation": false,
+              "rateDetails": [
+                {
+                  "languages": [
+                    {
+                      "code": "en"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "amountUnitType": "PAX"
+        },
+        "dateFrom": "2025-11-14",
+        "dateTo": "2025-11-14",
+        "cancellationPolicies": [
+          {
+            "dateFrom": "2025-11-13T00:00:00.000Z",
+            "amount": 78.65
+          }
+        ],
+        "paxes": [
+          {
+            "name": "John",
+            "mailing": false,
+            "surname": "Doe",
+            "customerId": "1",
+            "age": 25,
+            "paxType": "AD",
+            "passport": ""
+          }
+        ],
+        "id": "102#O#1",
+        "agencyCommission": {
+          "percentage": 0,
+          "amount": 0,
+          "vatAmount": 0
+        },
+        "contactInfo": {
+          "address": "La Rambla",
+          "postalCode": "08002",
+          "city": "Barcelona",
+          "country": {}
+        },
+        "amountDetail": {
+          "paxAmounts": [
+            {
+              "paxType": "ADULT",
+              "amount": 78.65
+            }
+          ],
+          "totalAmount": {
+            "amount": 78.65
+          }
+        },
+        "extraData": [
+          {
+            "id": "INFO_TTOO_BEARING_AMOUNT",
+            "value": "78.650"
+          },
+          {
+            "id": "INFO_TTOO_BEARING_AMOUNT_CURRENCY",
+            "value": "EUR"
+          },
+          {
+            "id": "INFO_TTOO_SERVICE_AMOUNT",
+            "value": "0.00"
+          }
+        ],
+        "providerInformation": {
+          "name": "URBAN ADVENTURES GLOBAL PTY LTD"
+        },
+        "content": {
+          "name": "Barcelona Old Town Tapas Tour",
+          "detailedInfo": [],
+          "featureGroups": [
+            {
+              "groupCode": "DRINKS",
+              "included": [
+                {
+                  "featureType": "DRINKSINCL",
+                  "description": "4 drinks (wine, beer, vermouth, or soft drink for those under the age of 18)"
+                }
+              ]
+            },
+            {
+              "groupCode": "MEAL",
+              "included": [
+                {
+                  "featureType": "FOODINCL",
+                  "description": "Tasting of 8 tapas "
+                }
+              ]
+            },
+            {
+              "groupCode": "UNKNOWN",
+              "included": [
+                {
+                  "featureType": "OTHERINCL",
+                  "description": "Guide"
+                }
+              ]
+            }
+          ],
+          "guidingOptions": {
+            "guideType": "TOURGUIDE",
+            "included": true
+          },
+          "location": {
+            "endPoints": [
+              {
+                "type": "Other",
+                "description": "Plaça Catalunya"
+              }
+            ],
+            "startingPoints": [
+              {
+                "type": "Meeting Point",
+                "meetingPoint": {
+                  "type": "ADDRESS",
+                  "geolocation": {
+                    "latitude": 41.3811543,
+                    "longitude": 2.1732627
+                  },
+                  "address": "La Rambla",
+                  "country": {
+                    "code": "ES",
+                    "name": "Spain",
+                    "destinations": [
+                      {
+                        "code": "BCN",
+                        "name": "Barcelona"
+                      }
+                    ]
+                  },
+                  "city": "Barcelona",
+                  "zip": "08002",
+                  "description": "Liceu Metro Station"
+                },
+                "pickupInstructions": [
+                  {
+                    "description": "Outside the station, near the elevators.</br> Please ensure you arrive at the meeting point at least 15 minutes prior to the Tour start time. "
+                  }
+                ]
+              }
+            ]
+          },
+          "media": {
+            "images": [
+              {
+                "visualizationOrder": 1,
+                "mimeType": "image/jpeg",
+                "language": "ENG",
+                "urls": [
+                  {
+                    "dpi": 72,
+                    "height": 75,
+                    "width": 100,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/S/15687%20food.jpg",
+                    "sizeType": "SMALL"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/XL/15687%20food.jpg",
+                    "sizeType": "XLARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 480,
+                    "width": 640,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/B/15687%20food.jpg",
+                    "sizeType": "LARGE2"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/LPP/15687%20food.jpg",
+                    "sizeType": "RAW"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 200,
+                    "width": 267,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/L/15687%20food.jpg",
+                    "sizeType": "LARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 130,
+                    "width": 173,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/M/15687%20food.jpg",
+                    "sizeType": "MEDIUM"
+                  }
+                ]
+              },
+              {
+                "visualizationOrder": 2,
+                "mimeType": "image/jpeg",
+                "language": "ENG",
+                "urls": [
+                  {
+                    "dpi": 72,
+                    "height": 75,
+                    "width": 100,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/S/5%20%28003%29.jpg",
+                    "sizeType": "SMALL"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/XL/5%20%28003%29.jpg",
+                    "sizeType": "XLARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 480,
+                    "width": 640,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/B/5%20%28003%29.jpg",
+                    "sizeType": "LARGE2"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/LPP/5%20%28003%29.jpg",
+                    "sizeType": "RAW"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 200,
+                    "width": 267,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/L/5%20%28003%29.jpg",
+                    "sizeType": "LARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 130,
+                    "width": 173,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/M/5%20%28003%29.jpg",
+                    "sizeType": "MEDIUM"
+                  }
+                ]
+              },
+              {
+                "visualizationOrder": 3,
+                "mimeType": "image/jpeg",
+                "language": "ENG",
+                "urls": [
+                  {
+                    "dpi": 72,
+                    "height": 75,
+                    "width": 100,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/S/4.jpg",
+                    "sizeType": "SMALL"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/XL/4.jpg",
+                    "sizeType": "XLARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 480,
+                    "width": 640,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/B/4.jpg",
+                    "sizeType": "LARGE2"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/LPP/4.jpg",
+                    "sizeType": "RAW"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 200,
+                    "width": 267,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/L/4.jpg",
+                    "sizeType": "LARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 130,
+                    "width": 173,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/M/4.jpg",
+                    "sizeType": "MEDIUM"
+                  }
+                ]
+              },
+              {
+                "visualizationOrder": 4,
+                "mimeType": "image/jpeg",
+                "language": "ENG",
+                "urls": [
+                  {
+                    "dpi": 72,
+                    "height": 75,
+                    "width": 100,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/S/15687%20food%202.jpg",
+                    "sizeType": "SMALL"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/XL/15687%20food%202.jpg",
+                    "sizeType": "XLARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 480,
+                    "width": 640,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/B/15687%20food%202.jpg",
+                    "sizeType": "LARGE2"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/LPP/15687%20food%202.jpg",
+                    "sizeType": "RAW"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 200,
+                    "width": 267,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/L/15687%20food%202.jpg",
+                    "sizeType": "LARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 130,
+                    "width": 173,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/M/15687%20food%202.jpg",
+                    "sizeType": "MEDIUM"
+                  }
+                ]
+              },
+              {
+                "visualizationOrder": 5,
+                "mimeType": "image/jpeg",
+                "language": "ENG",
+                "urls": [
+                  {
+                    "dpi": 72,
+                    "height": 75,
+                    "width": 100,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/S/15687_2.jpg",
+                    "sizeType": "SMALL"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/XL/15687_2.jpg",
+                    "sizeType": "XLARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 480,
+                    "width": 640,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/B/15687_2.jpg",
+                    "sizeType": "LARGE2"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/LPP/15687_2.jpg",
+                    "sizeType": "RAW"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 200,
+                    "width": 267,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/L/15687_2.jpg",
+                    "sizeType": "LARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 130,
+                    "width": 173,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/M/15687_2.jpg",
+                    "sizeType": "MEDIUM"
+                  }
+                ]
+              },
+              {
+                "visualizationOrder": 6,
+                "mimeType": "image/jpeg",
+                "language": "ENG",
+                "urls": [
+                  {
+                    "dpi": 72,
+                    "height": 75,
+                    "width": 100,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/S/15687_1.jpg",
+                    "sizeType": "SMALL"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/XL/15687_1.jpg",
+                    "sizeType": "XLARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 480,
+                    "width": 640,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/B/15687_1.jpg",
+                    "sizeType": "LARGE2"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/LPP/15687_1.jpg",
+                    "sizeType": "RAW"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 200,
+                    "width": 267,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/L/15687_1.jpg",
+                    "sizeType": "LARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 130,
+                    "width": 173,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/M/15687_1.jpg",
+                    "sizeType": "MEDIUM"
+                  }
+                ]
+              },
+              {
+                "visualizationOrder": 7,
+                "mimeType": "image/jpeg",
+                "language": "ENG",
+                "urls": [
+                  {
+                    "dpi": 72,
+                    "height": 75,
+                    "width": 100,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/S/15687_9.jpg",
+                    "sizeType": "SMALL"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/XL/15687_9.jpg",
+                    "sizeType": "XLARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 480,
+                    "width": 640,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/B/15687_9.jpg",
+                    "sizeType": "LARGE2"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/LPP/15687_9.jpg",
+                    "sizeType": "RAW"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 200,
+                    "width": 267,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/L/15687_9.jpg",
+                    "sizeType": "LARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 130,
+                    "width": 173,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/M/15687_9.jpg",
+                    "sizeType": "MEDIUM"
+                  }
+                ]
+              },
+              {
+                "visualizationOrder": 8,
+                "mimeType": "image/jpeg",
+                "language": "ENG",
+                "urls": [
+                  {
+                    "dpi": 72,
+                    "height": 75,
+                    "width": 100,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/S/15687_11.jpg",
+                    "sizeType": "SMALL"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/XL/15687_11.jpg",
+                    "sizeType": "XLARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 480,
+                    "width": 640,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/B/15687_11.jpg",
+                    "sizeType": "LARGE2"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/LPP/15687_11.jpg",
+                    "sizeType": "RAW"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 200,
+                    "width": 267,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/L/15687_11.jpg",
+                    "sizeType": "LARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 130,
+                    "width": 173,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/M/15687_11.jpg",
+                    "sizeType": "MEDIUM"
+                  }
+                ]
+              },
+              {
+                "visualizationOrder": 9,
+                "mimeType": "image/jpeg",
+                "language": "ENG",
+                "urls": [
+                  {
+                    "dpi": 72,
+                    "height": 75,
+                    "width": 100,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/S/15687_6.jpg",
+                    "sizeType": "SMALL"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/XL/15687_6.jpg",
+                    "sizeType": "XLARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 480,
+                    "width": 640,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/B/15687_6.jpg",
+                    "sizeType": "LARGE2"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/LPP/15687_6.jpg",
+                    "sizeType": "RAW"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 200,
+                    "width": 267,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/L/15687_6.jpg",
+                    "sizeType": "LARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 130,
+                    "width": 173,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/M/15687_6.jpg",
+                    "sizeType": "MEDIUM"
+                  }
+                ]
+              },
+              {
+                "visualizationOrder": 10,
+                "mimeType": "image/jpeg",
+                "language": "ENG",
+                "urls": [
+                  {
+                    "dpi": 72,
+                    "height": 75,
+                    "width": 100,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/S/15687_7.jpg",
+                    "sizeType": "SMALL"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/XL/15687_7.jpg",
+                    "sizeType": "XLARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 480,
+                    "width": 640,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/B/15687_7.jpg",
+                    "sizeType": "LARGE2"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/LPP/15687_7.jpg",
+                    "sizeType": "RAW"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 200,
+                    "width": 267,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/L/15687_7.jpg",
+                    "sizeType": "LARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 130,
+                    "width": 173,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/M/15687_7.jpg",
+                    "sizeType": "MEDIUM"
+                  }
+                ]
+              },
+              {
+                "visualizationOrder": 12,
+                "mimeType": "image/jpeg",
+                "language": "ENG",
+                "urls": [
+                  {
+                    "dpi": 72,
+                    "height": 75,
+                    "width": 100,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/S/10%20%28002%29.jpg",
+                    "sizeType": "SMALL"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/XL/10%20%28002%29.jpg",
+                    "sizeType": "XLARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 480,
+                    "width": 640,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/B/10%20%28002%29.jpg",
+                    "sizeType": "LARGE2"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/LPP/10%20%28002%29.jpg",
+                    "sizeType": "RAW"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 200,
+                    "width": 267,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/L/10%20%28002%29.jpg",
+                    "sizeType": "LARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 130,
+                    "width": 173,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/M/10%20%28002%29.jpg",
+                    "sizeType": "MEDIUM"
+                  }
+                ]
+              },
+              {
+                "visualizationOrder": 13,
+                "mimeType": "image/jpeg",
+                "language": "ENG",
+                "urls": [
+                  {
+                    "dpi": 72,
+                    "height": 75,
+                    "width": 100,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/S/9%20%28002%29.jpg",
+                    "sizeType": "SMALL"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/XL/9%20%28002%29.jpg",
+                    "sizeType": "XLARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 480,
+                    "width": 640,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/B/9%20%28002%29.jpg",
+                    "sizeType": "LARGE2"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 768,
+                    "width": 1024,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/LPP/9%20%28002%29.jpg",
+                    "sizeType": "RAW"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 200,
+                    "width": 267,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/L/9%20%28002%29.jpg",
+                    "sizeType": "LARGE"
+                  },
+                  {
+                    "dpi": 72,
+                    "height": 130,
+                    "width": 173,
+                    "resource": "https://media.activitiesbank.com/15687/ENG/M/9%20%28002%29.jpg",
+                    "sizeType": "MEDIUM"
+                  }
+                ]
+              }
+            ]
+          },
+          "redeemInfo": {
+            "type": "NONE",
+            "directEntrance": false,
+            "comments": [
+              {
+                "description": "Voucherless. You don’t need to bring any voucher (digital or printed)!"
+              }
+            ]
+          },
+          "scheduling": {
+            "duration": {
+              "value": 3,
+              "metric": "HOURS",
+              "type": "AFTER"
+            }
+          },
+          "segmentationGroups": [
+            {
+              "code": 14,
+              "name": "Supplier",
+              "segments": [
+                {
+                  "code": 922,
+                  "name": " Intrepid Urban Adventures"
+                }
+              ]
+            },
+            {
+              "code": 2,
+              "name": "Daytime",
+              "segments": [
+                {
+                  "code": 814,
+                  "name": "Evening"
+                }
+              ]
+            },
+            {
+              "code": 3,
+              "name": "Recommended activity for",
+              "segments": [
+                {
+                  "code": 780,
+                  "name": "Youth"
+                },
+                {
+                  "code": 779,
+                  "name": "Senior"
+                },
+                {
+                  "code": 777,
+                  "name": "Couples"
+                }
+              ]
+            },
+            {
+              "code": 1,
+              "name": "Categories",
+              "segments": [
+                {
+                  "code": 6,
+                  "name": "Gastronomy & nightlife"
+                }
+              ]
+            },
+            {
+              "code": 16,
+              "name": "Services",
+              "segments": [
+                {
+                  "code": 956,
+                  "name": "Safe2Stay"
+                }
+              ]
+            }
+          ],
+          "activityFactsheetType": "ACTIVITIES",
+          "activityCode": "E-E10-TAPASBARRI",
+          "contentId": "15687",
+          "description": "After meeting your guide on this Barcelona food tour like no other we`ll take you right to the historic centre of the old city of Barcelona, together we`ll have a walk in Gothic Quarter.<br />\n<br />\nJust a stone’s throw away, you will enjoy the first tapas experience of the evening in an historical bar, where we’ll start tasting a “filling bomb” with cold local beer.<br />\n<br />\nThe next place awaits us as we navigate our way through one of the most beautiful squares of the Gothic Quarter and its adjacent small streets that still retain their old medieval ambiance. Our next stop is a family-owned bar where we’ll taste Catalan cold cuts and “pa amb tomàquet” (bread with tomato) accompanied by a nice glass of white or red wine (as you do!).<br />\n<br />\nOur Barcelona tapas tour continues to the heart of the old Jewish Quarter. Next up is a hidden, charming, typical Bodega (with a fantastic cellar), where you can have a “vermut” (vermouth) or “cava” and indulge in the home-made croquettes and other typical tapas (you can expect “patatas bravas”, “padrón peppers”, sausage in cider sauce and bread with tomato).<br />\n<br />\nBefore we take you to the last drink stop, we will treat you with a surprise local sweet.<br />\n<br />\nThen, on the way to the last venue, we’ll see the Cathedral or even a giant work by Picasso before vanishing again in the labyrinth of narrow streets. We’ll walk then in a very local and traditional Vermouth cellar where of course you will get a glass of Vermouth or a local “pincho”. It is a must to taste.<br />\n<br />\nThroughout this Barcelona tour you will discover new tastes, flavors, and dishes. Your guide will give you insights into local gastronomic specialties and anecdotes of the city's history and local neighborhood life. Eating tapas is one of the best things to do in Barcelona, no doubt about that, and a great way to connect with the daily lives of the locals. At some point during this tour, you will likely meet some of the local characters in the Old Town and perhaps even get drawn into a conversation or two.<br />\n<br />\nYou never know what the evening has in store!<br />\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
+          "lastUpdate": "2025-02-28",
+          "advancedTips": [],
+          "countries": [
+            {
+              "code": "ES",
+              "name": "Spain",
+              "destinations": [
+                {
+                  "code": "BCN",
+                  "name": "Barcelona"
+                }
+              ]
+            }
+          ],
+          "highligths": [],
+          "language": "en"
+        }
+      }
+    ]
+  }
+}

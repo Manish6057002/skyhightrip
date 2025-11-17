@@ -1,0 +1,2107 @@
+{
+  "total": 350,
+  "fetchedAt": "2025-11-09T14:17:25.906Z",
+  "partial": true,
+  "hotels": [
+    {
+      "code": "1",
+      "name": "Ohtels Villa Dorada",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "2",
+      "name": "htop Calella Palace",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "5",
+      "name": "HG Lomo Blanco",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "7",
+      "name": "Servatur Don Miguel Adults Only",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "8",
+      "name": "Servatur Waikiki",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "9",
+      "name": "Barcelo Fuerteventura Mar",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "10",
+      "name": "Natural Park",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "11",
+      "name": "H10 Salou Princess",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "12",
+      "name": "Hotel Lloret Santa Rosa by Pierre & Vacances",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "13",
+      "name": "Rentalmar Arquus",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "15",
+      "name": "Dunas Club",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "16",
+      "name": "Elba Castillo San Jorge y Antigua Suite Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "18",
+      "name": "Melia Jardines del Teide",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "19",
+      "name": "Apartments Europa - Blanes",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "21",
+      "name": "Hotel Viladomat",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "22",
+      "name": "Vista Club",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "23",
+      "name": "Globales Costa de la Calma",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "24",
+      "name": "Atismar",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "25",
+      "name": "Mirachoro Carvoeiro",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "26",
+      "name": "Vila Gale Atlantico",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "29",
+      "name": "Oku Ibiza",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "30",
+      "name": "Vibra Monterrey Aparthotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "33",
+      "name": "Aqua Hotel Onabrava & Spa****S",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "39",
+      "name": "Exe Sevilla Macarena",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "40",
+      "name": "Luz y Mar",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "41",
+      "name": "Madeira Panoramico",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "42",
+      "name": "Colina dos Mouros",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "43",
+      "name": "Vila Gale Albacora",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "44",
+      "name": "Alegria Colonial Mar",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "46",
+      "name": "Guitart Rosa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "47",
+      "name": "Hostal Vila del Mar",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "48",
+      "name": "htop Royal Sun",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "49",
+      "name": "Mercury",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "50",
+      "name": "Aquamarina & SPA",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "51",
+      "name": "htop Amatista",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "52",
+      "name": "Europa Splash",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "53",
+      "name": "Playas del Rey",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "54",
+      "name": "Iberostar Selection Andalucia Playa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "56",
+      "name": "4R Salou Park Resort II",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "57",
+      "name": "Barcelona Universal",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "58",
+      "name": "ME Marbella",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "62",
+      "name": "Vila Gale Nautico",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "63",
+      "name": "Tivoli Marina Vilamoura Algarve Resort",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "64",
+      "name": "Boa Vista Hotel & Spa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "65",
+      "name": "Algarve Casino",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "67",
+      "name": "Flamero",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "68",
+      "name": "Sol Sancti Petri Apartamentos",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "69",
+      "name": "INNSiDE by Meliá Barcelona Apolo",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "71",
+      "name": "La Barracuda",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "72",
+      "name": "Kristal",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "73",
+      "name": "Hotel TRH La Motilla",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "74",
+      "name": "AR Roca Esmeralda & Spa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "75",
+      "name": "Sol Tenerife",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "76",
+      "name": "Bendinat",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "77",
+      "name": "Barcelo Illetas Albatros",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "78",
+      "name": "htop Royal Star",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "79",
+      "name": "Cleopatra Palace Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "81",
+      "name": "Tagoro Family and Fun Costa Adeje",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "82",
+      "name": "Be Live Experience Orotava",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "83",
+      "name": "Globales Cortijo Blanco",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "84",
+      "name": "Casas de la Juderia",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "85",
+      "name": "Hipotels Sherry Park ",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "86",
+      "name": "Molino De Guatiza",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "87",
+      "name": "NH Las Palmas Playa las Canteras",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "88",
+      "name": "Bull Astoria",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "89",
+      "name": "Fuerteventura Beach Club ",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "90",
+      "name": "Hotel Best Negresco",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "91",
+      "name": "Hotel Best Cambrils",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "93",
+      "name": "Melia Sitges",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "95",
+      "name": "Pestana Cascais Ocean and Conference Aparthotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "96",
+      "name": "Gran Garbi",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "99",
+      "name": "htop Platja Park",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "100",
+      "name": "Esplendid",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "101",
+      "name": "Prinsotel la Caleta",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "102",
+      "name": "Hotel Puerto Palace",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "103",
+      "name": "Catalonia Plaza Cataluña",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "104",
+      "name": "Regina",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "105",
+      "name": "Hotel Cassandra",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "106",
+      "name": "tent Playa de Palma",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "107",
+      "name": "Muthu Royal Park Albatros",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "108",
+      "name": "Da Bolsa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "109",
+      "name": "Hotel Baia Grande",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "110",
+      "name": "Roquetas Beach",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "112",
+      "name": "Aqualuz Lagos by The Editory",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "113",
+      "name": "Tivoli Lagos Algarve Resort",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "116",
+      "name": "Melia Lebreros",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "119",
+      "name": "Globales Acuario",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "120",
+      "name": "Peña de Arcos",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "121",
+      "name": "Fuentenueva",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "122",
+      "name": "Monasterio de San Francisco",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "124",
+      "name": "Exe Triunfo Granada",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "125",
+      "name": "Reina Cristina",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "126",
+      "name": "Catalonia Granada",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "127",
+      "name": "Alhambra Palace Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "129",
+      "name": "Eurostars Al-Ándalus Palace",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "130",
+      "name": "NH Córdoba Califa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "132",
+      "name": "Macia Alfaros",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "133",
+      "name": "Hoteles Globales Reina Cristina",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "136",
+      "name": "Ilunion Alcora Sevilla",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "137",
+      "name": "Wilson Boutique Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "138",
+      "name": "Maestranza",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "139",
+      "name": "Atlantis Las Lomas",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "142",
+      "name": "Inglaterra",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "147",
+      "name": "Los Zocos Impressive Lanzarote",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "149",
+      "name": "H10 Catalunya Plaza-Boutique Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "150",
+      "name": "Ac Ciudad De Sevilla",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "151",
+      "name": "Aparthotel Green Field",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "152",
+      "name": "Meliá Costa Atlantis Tenerife",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "155",
+      "name": "Club Jandia Princess",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "157",
+      "name": "Climia 2Sleep Apartments",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "158",
+      "name": "Hotel Alay - Adults Only",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "160",
+      "name": "Hotel Gran Canaria Princess (Adults Only)",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "161",
+      "name": "Las Gondolas",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "162",
+      "name": "Dom Jose Beach Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "163",
+      "name": "Hacienda San Jorge",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "164",
+      "name": "Dunas Mirador Maspalomas",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "165",
+      "name": "The Palace, A Luxury Collection Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "166",
+      "name": "Don Diego",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "168",
+      "name": "Eurostars Marivent",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "169",
+      "name": "L'Azure Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "170",
+      "name": "htop Amaika Adults Only",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "171",
+      "name": "Himalaia Soldeu",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "172",
+      "name": "Sant Jordi",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "175",
+      "name": "Novotel Andorra",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "176",
+      "name": "Guillem",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "177",
+      "name": "Gran Hotel Rey Don Jaime",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "179",
+      "name": "Óbal Hotel Marbella",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "180",
+      "name": "Monte Triana",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "181",
+      "name": "Rey Carlos",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "182",
+      "name": "Eurostars Puerto de Ibiza",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "183",
+      "name": "The Ibiza Twiins",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "185",
+      "name": "Apartamentos Panorama Only Adults",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "186",
+      "name": "Suizo",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "189",
+      "name": "Radisson Resort & Residences Tenerife",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "192",
+      "name": "Apartamentos Montecarlo",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "193",
+      "name": "Bull Reina Isabel & Spa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "195",
+      "name": "Iberostar Selection Sábila - Adults Only",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "197",
+      "name": "Be Smart Florida Plaza",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "199",
+      "name": "Bull Dorado Beach & Spa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "202",
+      "name": "Solana",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "204",
+      "name": "Globales Costa Tropical",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "206",
+      "name": "Eden Roc Mediterranean Hotel & Spa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "208",
+      "name": "Dragos del Sur",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "209",
+      "name": "Astoria",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "211",
+      "name": "Hotel El Puerto by Pierre & Vacances",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "212",
+      "name": "La Reserva de Marbella",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "213",
+      "name": "H10 Playa Esmeralda - Adults Only",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "214",
+      "name": "Serrano Palace",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "215",
+      "name": "H10 Timanfaya Palace - Adults Only",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "216",
+      "name": "Sol Principe",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "218",
+      "name": "PLAYA ESPERANZA RESORT",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "219",
+      "name": "Vincci Costa Golf",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "221",
+      "name": "Hipotels Natura Palace",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "222",
+      "name": "Adrian Hoteles Jardines de Nivaria",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "223",
+      "name": "Monopol",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "224",
+      "name": "Paradise Park Fun Lifestyle Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "225",
+      "name": "SBH Taro Beach",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "227",
+      "name": "Barcelo Margaritas",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "228",
+      "name": "Gloria Palace San Agustin Thalasso & Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "229",
+      "name": "Kumara Serenoa by Lopesan Hotels",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "231",
+      "name": "Hotel Riu Palace Meloneras",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "232",
+      "name": "Relaxia Beverly Park",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "233",
+      "name": "BLUESEA Hotel Los Fiscos",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "234",
+      "name": "Lanzarote Village",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "235",
+      "name": "Mareny Benidorm",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "236",
+      "name": "Servigroup Venus ",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "237",
+      "name": "Servigroup Orange ",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "238",
+      "name": "RH Corona del Mar",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "239",
+      "name": "Villa del Mar Hotel Family Gourmet",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "240",
+      "name": "Villa Venecia Hotel Boutique Gourmet",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "241",
+      "name": "Magic Villa España",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "242",
+      "name": "Magic Villa Benidorm",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "243",
+      "name": "Magic Aqua Rock Gardens",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "244",
+      "name": "Bull Eugenia Victoria & Spa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "245",
+      "name": "Seaside Palm Beach",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "246",
+      "name": "Agua Azul",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "247",
+      "name": "Carlos I",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "249",
+      "name": "Fleming",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "251",
+      "name": "Prince Park Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "252",
+      "name": "Benidorm East by Pierre and Vacances",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "253",
+      "name": "Los Alamos",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "254",
+      "name": "Sol Fuerteventura Jandia",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "255",
+      "name": "Suncoast Ibiza Hotel - Adults Only",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "256",
+      "name": "AzuLine Hotel Mar Amantis and Mar Amantis II",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "258",
+      "name": "Maracaibo",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "259",
+      "name": "Sol Palmanova-Mirlos Tordos",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "260",
+      "name": "JS Palma Stay",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "261",
+      "name": "BLUESEA Arenal Tower Adults Only",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "262",
+      "name": "BLUESEA Mediodia",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "263",
+      "name": "Hotel Globales Cala Viñas Adults Only +16",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "264",
+      "name": "Secrets Mallorca Villamil Resort & Spa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "265",
+      "name": "HM Jaime III",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "266",
+      "name": "Hotel ROC Illetas & SPA",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "267",
+      "name": "Flora",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "269",
+      "name": "Holiday Center",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "271",
+      "name": "Hotel Palma Bellver , Affiliated by Meliá",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "273",
+      "name": "Globales Club Almirante Farragut",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "274",
+      "name": "Binivell Park - Caliu Apartments",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "275",
+      "name": "Apartamentos Globales Lord Nelson",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "276",
+      "name": "Occidental Menorca",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "277",
+      "name": "tent Bahia de Palma",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "278",
+      "name": "Leonardo Royal & Suites hotel Ibiza Santa Eulalia",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "279",
+      "name": "Hotel Gran Sol Ibiza",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "280",
+      "name": "Cimbel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "281",
+      "name": "Sercotel Maya Alicante",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "282",
+      "name": "Mariscal V-Fincas Benidorm",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "284",
+      "name": "Apartotel Magic Tropical Splash ",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "285",
+      "name": "Beatriz Playa & Spa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "286",
+      "name": "Beatriz Costa & Spa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "287",
+      "name": "VIK Hotel San Antonio",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "288",
+      "name": "Occidental Lanzarote Mar",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "289",
+      "name": "Hipotels La Geria",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "290",
+      "name": "THB Flora",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "292",
+      "name": "Alexandre La Siesta",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "293",
+      "name": "Be Live Adults Only Tenerife",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "294",
+      "name": "Mediterranean Palace",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "295",
+      "name": "Dreams Jardín Tropical Resort & Spa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "297",
+      "name": "Occidental Playa de Palma",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "298",
+      "name": "Occidental Ibiza - All Inclusive",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "299",
+      "name": "Myseahouse Flamingo",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "300",
+      "name": "TRH Jardin del Mar",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "301",
+      "name": "Barcelo Santiago - Adults Only",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "302",
+      "name": "Barcelo Sevilla Renacimiento",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "303",
+      "name": "Cook's Club Calvia Beach Adults Only +21",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "305",
+      "name": "FERGUS Style Tobago",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "306",
+      "name": "Hotel Inmood Aucanada",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "307",
+      "name": "Blau Punta Reina Resort",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "308",
+      "name": "Globales SuneoClub Pionero Santa Ponsa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "310",
+      "name": "Tent Palmanova",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "311",
+      "name": "Seramar Hotel Luna Park Adults Only",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "312",
+      "name": "La Residencia, A Belmond Hotel, Mallorca",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "313",
+      "name": "Bahia Principe Sunlight Coral Playa – Adults Only",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "314",
+      "name": "Hotel Bordoy Continental Valldemossa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "316",
+      "name": "whala!beach",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "317",
+      "name": "Sun Club El Dorado",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "318",
+      "name": "Carvoeiro Garden Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "319",
+      "name": "Royal Orchid",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "320",
+      "name": "Monte Carlo",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "321",
+      "name": "Clube Alvorferias",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "322",
+      "name": "SANA Metropolitan",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "323",
+      "name": "Vila Gale Porto",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "324",
+      "name": "Piolets Soldeu Centre",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "326",
+      "name": "Zenit Diplomatic",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "328",
+      "name": "Hotel Encamp",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "331",
+      "name": "Mercure Andorra Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "332",
+      "name": "Pierre & Vacances Hotel Coray Andorra",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "333",
+      "name": "Exe Prisma",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "334",
+      "name": "Ibis Styles Lisboa Centro Liberdade Ne",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "336",
+      "name": "Vila Gale Marina",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "337",
+      "name": "Vila Gale Cerro Alagoa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "339",
+      "name": "Crowne Plaza Porto",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "342",
+      "name": "Sol Torremolinos Don Pablo",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "343",
+      "name": "El Puntazo II",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "344",
+      "name": "PARK PLAZA SUITES APARTAMENTOS",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "345",
+      "name": "MB Boutique Hotel - Adults Recommended",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "346",
+      "name": "Hotel Cádiz Paseo Del Mar, Affiliated By Meliá",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "347",
+      "name": "SOL PUERTO MARINA",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "350",
+      "name": "San Gil",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "351",
+      "name": "NH Collection Amistad Cordoba",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "353",
+      "name": "Alhaurin Golf Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "354",
+      "name": "Velada Merida",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "356",
+      "name": "Los Bracos",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "357",
+      "name": "Mandarin Oriental Ritz, Madrid",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "358",
+      "name": "Miguel Angel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "359",
+      "name": "Novotel Madrid Center",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "360",
+      "name": "Suite Hotel Eden Mar",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "362",
+      "name": "De l'Isard",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "364",
+      "name": "VIP Inn Berna",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "365",
+      "name": "Ohtels Carabela",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "367",
+      "name": "Puente Real",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "369",
+      "name": "Ilunion Islantilla",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "370",
+      "name": "Monarque Sultan",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "371",
+      "name": "BLUESEA AL ANDALUS",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "374",
+      "name": "AluaSun Costa Park",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "375",
+      "name": "La Cala Resort",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "376",
+      "name": "Hard Rock Hotel Marbella",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "378",
+      "name": "Hospes Las Casas del Rey de Baeza",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "379",
+      "name": "Elba Motril Beach & Business Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "380",
+      "name": "Mezquita ",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "384",
+      "name": "Palacio de Velada",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "385",
+      "name": "Suite Hotel Montana Club",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "386",
+      "name": "SBH Royal Mónica",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "391",
+      "name": "Relaxia Los Girasoles Bungalows",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "394",
+      "name": "Paradisus Gran Canaria",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "395",
+      "name": "Paradisus Salinas Lanzarote",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "397",
+      "name": "Casthotels Fuertesol Bungalows",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "398",
+      "name": "H10 Suites Lanzarote Gardens",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "399",
+      "name": "Lemon & Soul Las Palmas",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "400",
+      "name": "Sh Valencia Palace",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "402",
+      "name": "INNSiDE Costablanca",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "403",
+      "name": "Cuco",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "404",
+      "name": "Avenida",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "405",
+      "name": "Hotel Fontana Plaza",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "406",
+      "name": "Apartamentos Celeste",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "407",
+      "name": "Parque Tropical",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "419",
+      "name": "Parquemar",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "421",
+      "name": "Barcelona Century Hotel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "422",
+      "name": "Hotel Best Maritim",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "423",
+      "name": "Roma Reial",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "424",
+      "name": "B&B HOTEL Tarragona Centro Urbis ",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "425",
+      "name": "Kaktus Playa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "427",
+      "name": "Alegria Plaza Paris",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "428",
+      "name": "Caprici Beach Hotel & Spa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "429",
+      "name": "Estival Park Silmar",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "431",
+      "name": "Catalonia Park Güell",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "432",
+      "name": "Hotel Best Cap Salou",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "433",
+      "name": "Prestige Victoria",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "434",
+      "name": "Hotel Best Los Angeles",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "435",
+      "name": "Cye Holiday Centre",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "437",
+      "name": "4R Gran Regina",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "438",
+      "name": "Ventura Park",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "440",
+      "name": "Festival Village",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "441",
+      "name": "Catalonia Albeniz",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "442",
+      "name": "Voramar Cambrils",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "444",
+      "name": "Avenida Apartamentos",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "445",
+      "name": "Ilunion Almirante",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "447",
+      "name": "Mercé",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "448",
+      "name": "AQUA Hotel The Breeze & Spa - Adults Only +18",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "449",
+      "name": "Del Mar",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "450",
+      "name": "Hotel Best Mediterraneo",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "451",
+      "name": "Alegria Florida Park",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "454",
+      "name": "Caledonian",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "455",
+      "name": "Hotel Roses Platja",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "456",
+      "name": "SB Corona Tortosa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "457",
+      "name": "Salou Pacific",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "458",
+      "name": "Gran Hotel Barcino",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "459",
+      "name": "Ilunion Caleta Park",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "461",
+      "name": "Volga",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "463",
+      "name": "Catalonia Diagonal Centro",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "465",
+      "name": "HSM Canarios Park",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "466",
+      "name": "Cabot Pollensa Park Spa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "467",
+      "name": "Purobeach Resort Santa Ponsa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "469",
+      "name": "Sol Guadalupe",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "470",
+      "name": "Hotel De Mar Gran Meliá",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "471",
+      "name": "Melia Palma Marina",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "473",
+      "name": "Finca Son Vivot ",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "474",
+      "name": "Principe",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "475",
+      "name": "Nouvel",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "477",
+      "name": "Globales Tamaimo Tropical",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "478",
+      "name": "Iris",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "479",
+      "name": "More",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "481",
+      "name": "Sis Pins ",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "483",
+      "name": "Pierre et Vacances Mallorca Portomar",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "484",
+      "name": "Calimera Fido Gardens - Family Hotel****",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "485",
+      "name": "Insotel Cala Mandia Resort & Spa",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "487",
+      "name": "Illot Suites",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "490",
+      "name": "Ona Palmira Paguera",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "492",
+      "name": "Hotel Sir Anthony",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "493",
+      "name": "Masaru",
+      "image": "",
+      "images": []
+    },
+    {
+      "code": "495",
+      "name": "Hotel Rural Victoria",
+      "image": "",
+      "images": []
+    }
+  ]
+}
